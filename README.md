@@ -22,3 +22,13 @@ Scripts in the root directory correspond to figures in the paper:
 |Fig. 6| `vary_obs.py` |
 |Fig. 7| `vary_noise.py` |
 |Fig. 9| `plane_reconstruction.py` |
+
+## Requirements
+
+The code was developed with the following software versions:<br>
+Python 3.8.10<br>
+SciPy 1.5.2<br>
+Seaborn 0.11.0<br>
+MatPlotLib 3.3.2<br>
+Pandas 1.1.4<br>
+NumPy 1.21.2
