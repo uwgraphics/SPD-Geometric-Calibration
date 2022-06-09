@@ -1,9 +1,27 @@
 # Geometric Calibration of Single-Pixel Distance Sensors
 
-Accompanying code for RA-L submission "Geometric Calibration of Single-Pixel Distance Sensors", February 24, 2022.
+Accompanying code for C. Sifferman, D. Mehrotra, M. Gupta, and M. Gleicher, “Geometric Calibration of Single-Pixel Distance Sensors,” IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 6598–6605, 2022, doi: 10.1109/LRA.2022.3176453. 
 
 Carter Sifferman, Dev Mehrotra, Mohit Gupta, Michael Gleicher
 [sifferman|mehrotra|mohitg|gleicher]@cs.wisc.edu
+
+[IEEE Xplore](https://ieeexplore.ieee.org/document/9779560)
+
+If you use this code, or the ideas in our paper, please cite as:
+
+```
+@ARTICLE{Sifferman2022,
+  author={Sifferman, Carter and Mehrotra, Dev and Gupta, Mohit and Gleicher, Michael},
+  journal={IEEE Robotics and Automation Letters},
+  title={Geometric Calibration of Single-Pixel Distance Sensors},
+  year={2022},
+  volume={7},
+  number={3},
+  pages={6598-6605},
+  doi={10.1109/LRA.2022.3176453}
+}
+
+```
 
 ## Glossary
 
